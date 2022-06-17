@@ -1,0 +1,14 @@
+[
+  {
+    "package": "MixRF",
+    "oncran": true
+  },
+  {
+    "package": "mvMISE",
+    "oncran": true
+  },
+  {
+    "package": "ofGEM",
+    "oncran": true
+  }
+]
