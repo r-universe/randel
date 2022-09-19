@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "MixRF"]
+	path = MixRF
+	url = https://github.com/randel/mixrf
+	shallow = true
+	registered = true
 [submodule "mvMISE"]
 	path = mvMISE
 	url = https://github.com/randel/mvmise
