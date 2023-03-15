@@ -1,6 +1,6 @@
 [
   {
-    "package": "ofGEM",
+    "package": "MixRF",
     "oncran": true
   },
   {
@@ -8,7 +8,7 @@
     "oncran": true
   },
   {
-    "package": "MixRF",
+    "package": "ofGEM",
     "oncran": true
   }
 ]

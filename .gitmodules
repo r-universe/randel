@@ -3,9 +3,9 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "ofGEM"]
-	path = ofGEM
-	url = https://github.com/randel/ofgem
+[submodule "MixRF"]
+	path = MixRF
+	url = https://github.com/randel/mixrf
 	shallow = true
 	registered = true
 [submodule "mvMISE"]
@@ -13,8 +13,8 @@
 	url = https://github.com/randel/mvmise
 	shallow = true
 	registered = true
-[submodule "MixRF"]
-	path = MixRF
-	url = https://github.com/randel/mixrf
+[submodule "ofGEM"]
+	path = ofGEM
+	url = https://github.com/randel/ofgem
 	shallow = true
 	registered = true
